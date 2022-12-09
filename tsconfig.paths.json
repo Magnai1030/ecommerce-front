@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@layouts/*": ["components/layouts/*"],
+      "@containers/*": ["components/containers/*"],
+      "@customs/*": ["components/customs/*"],
+      "@items/*": ["components/items/*"],
+      "@seo/*": ["components/seo/*"],
+      "@types": ["@types"],
+      "@hooks/*": ["@hooks/*"],
+      "@utils/*": ["utils/*"],
+      "@providers/*": ["providers/*"],
+      "@/public/*": ["public/*"]
+    }
+  }
+}
